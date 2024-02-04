@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Operadores e Trigonometria/1.0.0": {
+        "runtime": {
+          "Operadores e Trigonometria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operadores e Trigonometria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

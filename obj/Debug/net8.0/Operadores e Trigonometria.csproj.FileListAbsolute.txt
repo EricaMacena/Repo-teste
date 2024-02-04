@@ -1,0 +1,14 @@
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\bin\Debug\net8.0\Operadores e Trigonometria.exe
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\bin\Debug\net8.0\Operadores e Trigonometria.deps.json
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\bin\Debug\net8.0\Operadores e Trigonometria.runtimeconfig.json
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\bin\Debug\net8.0\Operadores e Trigonometria.dll
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\bin\Debug\net8.0\Operadores e Trigonometria.pdb
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\obj\Debug\net8.0\Operadores e Trigonometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\obj\Debug\net8.0\Operadores e Trigonometria.AssemblyInfoInputs.cache
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\obj\Debug\net8.0\Operadores e Trigonometria.AssemblyInfo.cs
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\obj\Debug\net8.0\Operadores e Trigonometria.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\obj\Debug\net8.0\Operadores e Trigonometria.dll
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\obj\Debug\net8.0\refint\Operadores e Trigonometria.dll
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\obj\Debug\net8.0\Operadores e Trigonometria.pdb
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\obj\Debug\net8.0\Operadores e Trigonometria.genruntimeconfig.cache
+C:\Users\Erica\Documents\Dio\Operadores e Trigonometria\obj\Debug\net8.0\ref\Operadores e Trigonometria.dll
